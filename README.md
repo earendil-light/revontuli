@@ -19,6 +19,8 @@ revontuli
 * Est: Fr 15'
 * Est: Ja 15'
 * Int: Lect 20'
+* Ges: The 15'
+* 
 
 ## MIÉRCOLES
 * Oci: Con
@@ -41,6 +43,7 @@ revontuli
 * Dep: Cam 120'
 * Cas: Colocar caja habitación 30'
 * Oci: Start Sp / Cal / Pl 90'
+* Otr: Wallet 15'
 
 ## DOMINGO
 * Dep: Cam 120'
