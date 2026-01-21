@@ -1,5 +1,5 @@
 # revontuli
-revontuli
+Revontuli es una palabra finlandesa que literalmente significa “fuego del cielo” ( revontuli = revon “cielo” + tuli “fuego” ). En el uso cotidiano se refiere a la aurora boreal, ese espectáculo de luces verdes, rosadas o violetas que aparecen en las regiones polares durante la noche.
 
 ## L
 * Cas: Colocar Am 15'
