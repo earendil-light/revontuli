@@ -1,7 +1,7 @@
 # revontuli
 Revontuli es una palabra finlandesa que literalmente significa “fuego del cielo” ( revontuli = revon “cielo” + tuli “fuego” ). En el uso cotidiano se refiere a la aurora boreal, ese espectáculo de luces verdes, rosadas o violetas que aparecen en las regiones polares durante la noche.
 
-## L
+# L
 * Cas: Colocar Am 15'
 * Cas: Colocar ropa nueva 15'
 * Id: An - Nuevas 30'
@@ -14,7 +14,7 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 * Com: Alc
 * Com: Am 15'
 
-## M
+# M
 * Id: An - Nuevas 30'
 * Est: Fr 15'
 * Est: Ja 15'
@@ -22,10 +22,10 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 * Ges: The 15'
 * 
 
-## X
+# X
 * Oci: Con
 
-## J
+# J
 ### 
 * Id: An 30'
 * In: Le 20'
