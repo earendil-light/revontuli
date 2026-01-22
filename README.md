@@ -26,24 +26,26 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 * Oci: Con
 
 ## J
-* Id: An - Nuevas 30'
-* Int: Lect 20'
-* Est: Fr 15'
-* Est: Ja 15'
-* Int: Lect 20'
-* De: Cin 60'
-* Ge: PcC
+* Id: An 30'
+* In: Le 20'
+* Es: Fr 15'
+* Es: Ja 15'
+* De: Ci 60'
+* De: Es 10'
+* Ge: PcC 10'
+* Co: Al 30'
 
-* 17'5: Est1, Est2
+* 17'5: Es1, Es2
+* 18'0: Co 
 * 19'5: Id
-* 20: Int
-* 20'5: Dep
+* 20'0: In
+* 20'5: De1, De2
 
 ## V
-* Id: An - Nuevas 30'
-* Int: Lect 20'
-* De: Cam 120'
-* Ge: Pasaporte 15'
+* Id: An 30'
+* In: Le 20'
+* De: Ca 120'
+* Ge: Pass 15'
 
 * 17'5: Ge
 * 18: De
