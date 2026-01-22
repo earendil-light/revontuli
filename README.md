@@ -2,6 +2,7 @@
 Revontuli es una palabra finlandesa que literalmente significa “fuego del cielo” ( revontuli = revon “cielo” + tuli “fuego” ). En el uso cotidiano se refiere a la aurora boreal, ese espectáculo de luces verdes, rosadas o violetas que aparecen en las regiones polares durante la noche.
 
 # L
+##
 * Cas: Colocar Am 15'
 * Cas: Colocar ropa nueva 15'
 * Id: An - Nuevas 30'
@@ -15,50 +16,61 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 * Com: Am 15'
 
 # M
+##
 * Id: An - Nuevas 30'
 * Est: Fr 15'
 * Est: Ja 15'
 * Int: Lect 20'
 * Ges: The 15'
-* 
 
 # X
+##
 * Oci: Con
 
 # J
-### 
+## 
 * Id: An 30'
 * In: Le 20'
 * Es: Fr 15'
 * Es: Ja 15'
 * De: Ci 60'
 * De: Es 10'
-* Ge: PcC 10'
+* Ge: Pc 10'
 * Co: Al 30'
-###
+##
 * 17'5: Es1, Es2
 * 18'0: Co 
-* 19'5: Id
+* 19'5: Ge, Id
 * 20'0: In
 * 20'5: De1, De2
 
-## V
+# V
+##
 * Id: An 30'
+* Id: NL 30'
 * In: Le 20'
 * De: Ca 120'
-* Ge: Pass 15'
+* Ge: Pa 15'
+* Oc: PS 30'+30'
+##
+* 17'0: Ge
+* 17'5: De1, De2
+* 20'0: In
+* 20'5: Id1, Id2
+* 21'0: Oc1, Oc2
 
-* 17'5: Ge
-* 18: De
-* 20'5: Int
-* 21: An
-
-## S
+# S
+##
 * Ge: Pasaporte 15'
 * De: Cam 120'
 * Ca: Colocar caja habitación 30'
 * Oc: Start Sp / Cal / Pl 90'
 * Ot: Wallet 15'
-
-## D
-* Dep: Cam 120'
+##
+* 08'0: De
+* 11'0: Ge, Ot
+# D
+##
+* De: Cam 90'
+##
+* 19'0: De
