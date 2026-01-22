@@ -26,6 +26,7 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 * Oci: Con
 
 ## J
+### 
 * Id: An 30'
 * In: Le 20'
 * Es: Fr 15'
@@ -34,7 +35,7 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 * De: Es 10'
 * Ge: PcC 10'
 * Co: Al 30'
-
+###
 * 17'5: Es1, Es2
 * 18'0: Co 
 * 19'5: Id
