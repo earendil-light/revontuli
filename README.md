@@ -65,13 +65,13 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 
 # S
 ##
-* Ca: Caja hab 30' // Limpieza 60' // Afei 10' // Árbol 15'
-* Ge: Pa 15'
-* Id: Ank 30' // NLe 30'
-* In: Lec 15'+15'
+* Ca: Caj hab 30' // Lim 60' // Afe 10' // Árb 15'
+* Ge: Pas 15'
+* Id: An 30' // NLe 30'
+* In: Le 15'+15'
 * Es: 
 * De: Ci 60' // Es 15'
-* Oc: PS 30'+30' // Start Sp / Cal / Pl 90'
+* Oc: Ps 30'+30' // Sp / Cal / Pl 90'
 * Co:
 * Ot: Wallet 15'
 * Bu:
@@ -84,13 +84,12 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 * Ca: 
 * Ge: 
 * Id: 
-* In: 
+* In: Le 10'+10'
 * Es: 
 * De: Ci 60' // Es 15'
 * Oc: PS 30'+30'
 * Co:
 * Ot: 
 * Bu:
-* De: 
 ##
 * 19'0: De
