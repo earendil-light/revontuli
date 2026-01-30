@@ -37,10 +37,39 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 
 # V
 ##
+* Bu:
+* Ca: 
+* Co: 
+* De: 
+* Es: 
+* Ge: 
+* Id: 
+* In: 
+* Oc: 
+* Ot: 
 
 # S
 ##
+* Bu: Ver zona
+* Ca: 
+* Co: 
+* De: 
+* Es: 
+* Ge: Foto
+* Id: 
+* In: 
+* Oc: 
 * Ot: Wallet 15'
 
 # D
 ##
+* Bu:
+* Ca: 
+* Co: 
+* De: 
+* Es: 
+* Ge: 
+* Id: 
+* In: 
+* Oc: 
+* Ot: 
