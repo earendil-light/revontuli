@@ -4,27 +4,27 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 # L
 ##
 * Bu:
-* Ca: Af 10'
-* Co: Hu
-* De: Ci 60' // Es 15'
+* Ca: 
+* Co: 
+* De: 
 * Es: 
-* Ge:
-* Id: Ank 30' // NLe 30'
-* In: Le 15'
-* Oc: PS 30'+30'
+* Ge: 
+* Id: 
+* In: 
+* Oc: 
 * Ot: 
 
 # M
 ##
 * Bu:
 * Ca: 
-* Co: Hu
-* De: Ci 60' // Es 15'
-* Es: Fr 15' // Ja 15'
-* Ge: Fo
-* Id: An 30' // NLe 30'
-* In: Le 15'
-* Oc: Con
+* Co: 
+* De: 
+* Es: 
+* Ge: 
+* Id: 
+* In: 
+* Oc: 
 * Ot: 
 
 # X
@@ -34,9 +34,6 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 
 # J
 ## 
-
-# V
-##
 * Bu:
 * Ca: 
 * Co: 
@@ -44,32 +41,45 @@ Revontuli es una palabra finlandesa que literalmente significa “fuego del ciel
 * Es: 
 * Ge: 
 * Id: 
+* In: 
+* Oc: 
+* Ot:
+
+# V
+##
+* Bu:
+* Ca: 
+* Co: Am/Al
+* De: 
+* Es: 
+* Ge: 
+* Id: An(Co)30
 * In: 
 * Oc: 
 * Ot: 
 
 # S
 ##
-* Bu: Ver zona
-* Ca: 
+* Bu:
+* Ca: puerta15/perfil15
 * Co: 
-* De: 
+* De: Ca
 * Es: 
-* Ge: Foto
-* Id: 
+* Ge: 
+* Id: An60/opciones
 * In: 
 * Oc: 
-* Ot: Wallet 15'
+* Ot: 
 
 # D
 ##
-* Bu:
-* Ca: 
+* Bu: Fav60
+* Ca: Af10
 * Co: 
-* De: 
+* De: Ca
 * Es: 
-* Ge: 
-* Id: 
+* Ge: Th15
+* Id: An60
 * In: 
-* Oc: 
+* Oc: Jap20/JRP20
 * Ot: 
